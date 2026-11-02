@@ -1,0 +1,189 @@
+{
+  "seed10086_validation": {
+    "species_accuracy": 0.9119806289672852,
+    "species_balanced_accuracy": 0.8584573666254679,
+    "BA_seen": null,
+    "BA_unseen": null,
+    "DSG": null,
+    "num_seen_samples": null,
+    "num_unseen_samples": null
+  },
+  "seed10086_test": {
+    "species_accuracy": 0.7876694798469543,
+    "species_balanced_accuracy": 0.5526203231679069,
+    "BA_seen": 0.8860464493433634,
+    "BA_unseen": 0.16606333199888468,
+    "DSG": 0.7199831173444787,
+    "num_seen_samples": 23015,
+    "num_unseen_samples": 4202
+  },
+  "seed1024_validation": {
+    "species_accuracy": 0.9106042981147766,
+    "species_balanced_accuracy": 0.8538910448551178,
+    "BA_seen": null,
+    "BA_unseen": null,
+    "DSG": null,
+    "num_seen_samples": null,
+    "num_unseen_samples": null
+  },
+  "seed1024_test": {
+    "species_accuracy": 0.7864202260971069,
+    "species_balanced_accuracy": 0.5554686660567919,
+    "BA_seen": 0.8893966972827911,
+    "BA_unseen": 0.17023039195272657,
+    "DSG": 0.7191663053300645,
+    "num_seen_samples": 23015,
+    "num_unseen_samples": 4202
+  },
+  "seed1234_validation": {
+    "species_accuracy": 0.9146021604537964,
+    "species_balanced_accuracy": 0.8673127426041497,
+    "BA_seen": null,
+    "BA_unseen": null,
+    "DSG": null,
+    "num_seen_samples": null,
+    "num_unseen_samples": null
+  },
+  "seed1234_test": {
+    "species_accuracy": 0.7869346141815186,
+    "species_balanced_accuracy": 0.5246870335605409,
+    "BA_seen": 0.9017654955387115,
+    "BA_unseen": 0.14658605778175923,
+    "DSG": 0.7551794377569523,
+    "num_seen_samples": 23015,
+    "num_unseen_samples": 4202
+  },
+  "seed2023_validation": {
+    "species_accuracy": 0.9123410582542419,
+    "species_balanced_accuracy": 0.8646585477723016,
+    "BA_seen": null,
+    "BA_unseen": null,
+    "DSG": null,
+    "num_seen_samples": null,
+    "num_unseen_samples": null
+  },
+  "seed2023_test": {
+    "species_accuracy": 0.7929970026016235,
+    "species_balanced_accuracy": 0.5490629250804583,
+    "BA_seen": 0.8927704393863678,
+    "BA_unseen": 0.20301804029279286,
+    "DSG": 0.689752399093575,
+    "num_seen_samples": 23015,
+    "num_unseen_samples": 4202
+  },
+  "seed2024_validation": {
+    "species_accuracy": 0.8945143818855286,
+    "species_balanced_accuracy": 0.8492662244372897,
+    "BA_seen": null,
+    "BA_unseen": null,
+    "DSG": null,
+    "num_seen_samples": null,
+    "num_unseen_samples": null
+  },
+  "seed2024_test": {
+    "species_accuracy": 0.7756181955337524,
+    "species_balanced_accuracy": 0.5426879260275099,
+    "BA_seen": 0.8599448700745901,
+    "BA_unseen": 0.18420803215768602,
+    "DSG": 0.6757368379169041,
+    "num_seen_samples": 23015,
+    "num_unseen_samples": 4202
+  },
+  "seed2048_validation": {
+    "species_accuracy": 0.9092606902122498,
+    "species_balanced_accuracy": 0.863026585843828,
+    "BA_seen": null,
+    "BA_unseen": null,
+    "DSG": null,
+    "num_seen_samples": null,
+    "num_unseen_samples": null
+  },
+  "seed2048_test": {
+    "species_accuracy": 0.7828930616378784,
+    "species_balanced_accuracy": 0.5517142613728842,
+    "BA_seen": 0.8917762140432993,
+    "BA_unseen": 0.18372721451386395,
+    "DSG": 0.7080489995294353,
+    "num_seen_samples": 23015,
+    "num_unseen_samples": 4202
+  },
+  "seed3407_validation": {
+    "species_accuracy": 0.8968082070350647,
+    "species_balanced_accuracy": 0.8320323824882507,
+    "BA_seen": null,
+    "BA_unseen": null,
+    "DSG": null,
+    "num_seen_samples": null,
+    "num_unseen_samples": null
+  },
+  "seed3407_test": {
+    "species_accuracy": 0.7724583745002747,
+    "species_balanced_accuracy": 0.5118053348528014,
+    "BA_seen": 0.8708465298016866,
+    "BA_unseen": 0.1575240066481961,
+    "DSG": 0.7133225231534905,
+    "num_seen_samples": 23015,
+    "num_unseen_samples": 4202
+  },
+  "seed4096_validation": {
+    "species_accuracy": 0.8981190323829651,
+    "species_balanced_accuracy": 0.8381882641050551,
+    "BA_seen": null,
+    "BA_unseen": null,
+    "DSG": null,
+    "num_seen_samples": null,
+    "num_unseen_samples": null
+  },
+  "seed4096_test": {
+    "species_accuracy": 0.7761325836181641,
+    "species_balanced_accuracy": 0.5473644311229388,
+    "BA_seen": 0.8793179293473562,
+    "BA_unseen": 0.18378350718800598,
+    "DSG": 0.6955344221593502,
+    "num_seen_samples": 23015,
+    "num_unseen_samples": 4202
+  },
+  "seed42_validation": {
+    "species_accuracy": 0.9104731678962708,
+    "species_balanced_accuracy": 0.8482104010052152,
+    "BA_seen": null,
+    "BA_unseen": null,
+    "DSG": null,
+    "num_seen_samples": null,
+    "num_unseen_samples": null
+  },
+  "seed42_test": {
+    "species_accuracy": 0.7875592708587646,
+    "species_balanced_accuracy": 0.5318652540445328,
+    "BA_seen": 0.8837699790795644,
+    "BA_unseen": 0.14934344394391197,
+    "DSG": 0.7344265351356525,
+    "num_seen_samples": 23015,
+    "num_unseen_samples": 4202
+  },
+  "seed8192_validation": {
+    "species_accuracy": 0.8962183594703674,
+    "species_balanced_accuracy": 0.8567826151847839,
+    "BA_seen": null,
+    "BA_unseen": null,
+    "DSG": null,
+    "num_seen_samples": null,
+    "num_unseen_samples": null
+  },
+  "seed8192_test": {
+    "species_accuracy": 0.7739648222923279,
+    "species_balanced_accuracy": 0.545906657146083,
+    "BA_seen": 0.8698603610197703,
+    "BA_unseen": 0.20250728891955483,
+    "DSG": 0.6673530721002154,
+    "num_seen_samples": 23015,
+    "num_unseen_samples": 4202
+  },
+  "summary": {
+    "BA_unseen_mean": 0.1746991315397382,
+    "BA_unseen_std": 0.019111496424189644,
+    "BA_seen_mean": 0.8825494964917502,
+    "n_seeds": 10,
+    "readme_reference": "BA_unseen 0.185414 +- 0.013971, BA_seen 0.879283 (10 seeds)"
+  }
+}
